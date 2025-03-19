@@ -1,26 +1,40 @@
-# 🌟 *Welcome!* 🚀  
-### Fullstack Developer | Aspiring Game & Mobile App Developer  
+## *🧑‍💻 Mohamed Munshif*  
+💻 Fullstack Developer | Aspiring Mobile App Developer  
+📍 *Software Engineering Student*  
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-munshif-a29338261)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-munshif)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-munshif-a29338261)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557606339427)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/munshifff_/)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@munshif__)  
 
 </div>
 
 ---
 
-## 🎯 *About Me*  
-- 👨‍🎓 Undergraduate in *Software Engineering*.  
-- 💻 Passionate about *Fullstack Development, **Game Development, and **Mobile App Development*.  
-- 🛠 Skilled in *HTML, CSS, PHP, Java, Bootstrap, Flutter* & more.  
-- 🚀 2025 Goals: Master *Mobile App & Game Development* and explore *Advanced Web Technologies*.  
-- 📬 Reach me at: [mmunshif94@gmail.com](mailto:mmunshif94@gmail.com)  
+### 🚀 *About Me*  
+
+🔹 Currently studying *Software Engineering*  
+🔹 Passionate about *Web & Mobile App Development*  
+🔹 Building *E-Grocery Systems & Full-Stack Web Apps*  
+🔹 📧 Contact me: [mmunshif94@gmail.com](mailto:mmunshif94@gmail.com)  
 
 ---
 
-## ⚡ *Tech Stack & Tools*  
+## 📊 *GitHub Stats*  
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-munshif&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-munshif&layout=compact&theme=tokyonight)  
+
+</div>
+
+---
+
+## 🛠 *Tech Stack & Tools*  
 
 <div align="center">
 
@@ -37,53 +51,31 @@
 
 ---
 
-## 🚀 *2025 Roadmap: My Learning & Growth Journey*  
+## 🚀 *2025 Roadmap: Learning & Growth*  
 
 ### *📱 Mobile App Development*  
-- Master *Flutter* for cross-platform app development.  
-- Learn *Kotlin* (Android) and *Swift* (iOS) for native development.  
-- Explore *Firebase & Supabase* for real-time databases and backend integration.  
-- Build and publish at least *two mobile apps* on the Play Store & App Store.  
-
-### *🎮 Game Development*  
-- Learn *Unity* with C# for 2D/3D game development.  
-- Explore *Unreal Engine 5* for high-end graphics and AAA-style game design.  
-- Study *Game Physics, AI, and Multiplayer Networking*.  
-- Create and publish a *small indie game* on Itch.io or Steam.  
+✅ Master *Flutter* for cross-platform development  
+✅ Learn *Kotlin* (Android) & *Swift* (iOS)  
+✅ Implement *Firebase & Supabase* for real-time data  
+✅ Publish *two mobile apps* to the Play Store & App Store  
 
 ### *🌐 Advanced Web Development*  
-- Learn *Laravel* to enhance PHP backend development.  
-- Dive into *React.js, Next.js, and Node.js* for full-stack JavaScript expertise.  
-- Implement *GraphQL & RESTful APIs* for efficient backend communication.  
-- Experiment with *WebSockets* for real-time applications (chat, notifications, live updates).  
-- Build and deploy a *full-fledged e-commerce web application* with payment integration.  
+✅ Learn *Laravel* for backend development  
+✅ Master *React.js, Next.js, and Node.js*  
+✅ Work with *GraphQL & RESTful APIs*  
+✅ Implement *WebSockets* for real-time apps (chats, notifications, live updates)  
+✅ Build a *full-fledged e-commerce system* with payment gateway integration  
 
-### *🔍 Cloud & DevOps*  
-- Get familiar with *AWS, Google Cloud, or Azure* for cloud computing.  
-- Learn *Docker & Kubernetes* for containerized deployments.  
-- Automate CI/CD pipelines using *GitHub Actions, Jenkins, or GitLab CI/CD*.  
+### *☁ Cloud & DevOps*  
+✅ Get hands-on with *AWS, Google Cloud, or Azure*  
+✅ Learn *Docker & Kubernetes* for efficient deployment  
+✅ Set up *CI/CD pipelines* with *GitHub Actions*  
 
-### *🛡 Cybersecurity & Performance Optimization*  
-- Improve security knowledge: *SQL Injection, XSS, CSRF Protection, and Encryption*.  
-- Learn *Web Performance Optimization*: caching, lazy loading, image optimization, and CDN usage.  
-- Strengthen authentication mechanisms: *OAuth 2.0, JWT, Multi-Factor Authentication (MFA)*.  
-
-### *💡 Personal Growth & Open Source*  
-- Contribute to *open-source projects* and collaborate with developers worldwide.  
-- Write *technical blogs* on web development, game development, and mobile apps.  
-- Start a *YouTube channel* or blog series to share coding knowledge.  
-- Attend *tech meetups, hackathons, and online coding challenges*.  
-
----
-
-## 📊 *GitHub Stats*  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-munshif&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-munshif&layout=compact&theme=tokyonight)  
-
-</div>
+### *💡 Open Source & Personal Growth*  
+✅ Contribute to *open-source projects*  
+✅ Write *tech blogs* & share knowledge  
+✅ Start a *YouTube channel* (Tech tutorials & projects)  
+✅ Attend *hackathons & coding challenges*  
 
 ---
 
@@ -98,3 +90,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-munshif-a29338261)  
 
 </div>
+
+---
+
+### 🎬 *My Downtime*  
+
+🎮 *Gaming* | 🎧 *Music* | 📺 *Netflix & Streaming* | 📖 *Tech Blogs*  
+
+---
+
+### *📌 Need a Developer? Let's Build Something Amazing!*  
+🚀 Open to freelance work, collaborations, and innovative projects!
