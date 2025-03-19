@@ -18,7 +18,7 @@
 
 🔹 Currently studying *Software Engineering*  
 🔹 Passionate about *Web & Mobile App Development*  
-🔹 Building *E-Grocery Systems & Full-Stack Web Apps*  
+🔹 Building *e commerce Systems & Full-Stack Web Apps*  
 🔹 📧 Contact me: [mmunshif94@gmail.com](mailto:mmunshif94@gmail.com)  
 
 ---
