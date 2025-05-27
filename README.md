@@ -1,103 +1,129 @@
-## *🧑‍💻 Mohamed Munshif*  
-💻 Fullstack Developer | Aspiring Mobile App Developer  
-📍 *Software Engineering Student*  
+<h1 align="center">🧑‍💻 Mohamed Munshif</h1>
+<p align="center">💻 Fullstack Developer | 📱 Aspiring Mobile App Developer</p>
+<p align="center">📍 Software Engineering Student | Passionate Problem Solver</p>
 
 <div align="center">
-
+  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-munshif)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-munshif-a29338261)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557606339427)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/munshifff_/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557606339427)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@munshif__)
 
 </div>
 
 ---
 
-### 🚀 *About Me*  
+## 🚀 About Me
 
-🔹 Currently studying *Software Engineering*  
-🔹 Passionate about *Web & Mobile App Development*  
-🔹 Building *e commerce Systems & Full-Stack Web Apps*  
-🔹 📧 Contact me: [mmunshif94@gmail.com](mailto:mmunshif94@gmail.com)
+- 🎓 Software Engineering student passionate about solving real-world problems  
+- 🔧 Specializing in Fullstack Web Development and Cross-Platform Mobile Apps  
+- 💡 Focused on Flutter, React.js, Node.js, and modern backend frameworks  
+- ✨ Building E-commerce Systems, Real-time Apps & Smart UI/UX  
+- 📫 Reach me at: [mmunshif94@gmail.com](mailto:mmunshif94@gmail.com)
 
 ---
 
-## 📊 *GitHub Stats*  
+## 🧰 Tech Stack & Tools
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-munshif&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github)
+### 🌐 Web Development
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 📱 Mobile App Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+
+### 🛠️ Tools & Cloud
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Munshif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-munshif&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-munshif&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🛠 *Tech Stack & Tools*  
+## 🧭 2025 Roadmap
 
-<div align="center">
+### 📱 Mobile App Development
 
-![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ✅ Master **Flutter** & **Dart**  
+- ✅ Learn **Kotlin (Android)** and **Swift (iOS)**  
+- ✅ Integrate **Firebase** and **Supabase**  
+- ✅ Publish at least **2 apps** on Play Store & App Store  
 
-</div>
+### 🌐 Web Development
 
----
+- ✅ Advance in **Laravel**, **React.js**, **Next.js**, and **Node.js**  
+- ✅ Build full-stack systems with **GraphQL** & **REST APIs**  
+- ✅ Integrate **WebSockets** for real-time features  
+- ✅ Develop a **complete E-commerce platform**  
 
-## 🚀 *2025 Roadmap: Learning & Growth*  
+### ☁️ Cloud & DevOps
 
-### *📱 Mobile App Development*  
-✅ Master *Flutter* for cross-platform development  
-✅ Learn *Kotlin* (Android) & *Swift* (iOS)  
-✅ Implement *Firebase & Supabase* for real-time data  
-✅ Publish *two mobile apps* to the Play Store & App Store  
+- ✅ Explore **AWS**, **Google Cloud**, and **Azure**  
+- ✅ Learn **Docker**, **Kubernetes**, and **CI/CD pipelines** via GitHub Actions  
 
-### *🌐 Advanced Web Development*  
-✅ Learn *Laravel* for backend development  
-✅ Master *React.js, Next.js, and Node.js*  
-✅ Work with *GraphQL & RESTful APIs*  
-✅ Implement *WebSockets* for real-time apps (chats, notifications, live updates)  
-✅ Build a *full-fledged e-commerce system* with payment gateway integration  
+### 💬 Community & Personal Growth
 
-### *☁ Cloud & DevOps*  
-✅ Get hands-on with *AWS, Google Cloud, or Azure*  
-✅ Learn *Docker & Kubernetes* for efficient deployment  
-✅ Set up *CI/CD pipelines* with *GitHub Actions*  
-
-### *💡 Open Source & Personal Growth*  
-✅ Contribute to *open-source projects*  
-✅ Write *tech blogs* & share knowledge  
-✅ Start a *YouTube channel* (Tech tutorials & projects)  
-✅ Attend *hackathons & coding challenges*  
+- ✅ Contribute to **Open Source**  
+- ✅ Start **Tech Blogging**  
+- ✅ Launch a **YouTube Channel**  
+- ✅ Join **Hackathons & Developer Communities**
 
 ---
 
-## 🔗 *Let's Connect*  
+## 📬 Let's Connect & Collaborate
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-munshif)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557606339427)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-munshif-a29338261)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/munshifff_/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@munshif__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-munshif-a29338261)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557606339427)
 
 </div>
 
 ---
 
-### 🎬 *My Downtime*  
+## 🎮 Downtime & Interests
 
-🎮 *Gaming* | 🎧 *Music* | 📺 *Netflix & Streaming* | 📖 *Tech Blogs*  
+- 🎮 Gaming  
+- 🎧 Music  
+- 📺 Streaming & Netflix  
+- 📚 Reading Tech Blogs  
 
 ---
 
-### *📌 Need a Developer? Let's Build Something Amazing!*  
-🚀 Open to freelance work, collaborations, and innovative projects!
+## 🤝 Need a Developer?
+
+Let's build something amazing together — I'm open to **freelance work**, **collaborations**, and **exciting startup ideas**!
+
+---
+
