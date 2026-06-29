@@ -1,28 +1,230 @@
- 
-       
+<div align="center">
 
- 
---- ### About Me I'm an **IT Support Engineer** and **Full-Stack Web Developer** with hands-on experience delivering production-grade web systems and end-to-end IT infrastructure support. - ðŸŽ“ Higher National Diploma in **Software Engineering** â€” *National Institute of Business Management* - ðŸ’¼ Certified in **IT Support Â· CRM Administration Â· Computer Science** - ðŸ”¬ Currently building full-stack platforms with **React + Spring Boot** - ðŸŒ Open to opportunities **anywhere in the world** - âš¡ Equally fluent in **hardware/network troubleshooting** and **modern web development** 
---- ## ðŸ† GitHub Trophies 
- 
---- ## ðŸ› ï¸ Tech Stack 
-**Frontend** 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 	**Backend & Data** 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) 	**IT & Infrastructure** 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Networking](https://img.shields.io/badge/Networking-00BCF2?style=flat-square&logo=cisco&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
---- ## ðŸš€ Featured Projects 
-### ðŸŒ¿ Veylone Journeys **Full-Stack Tourism Platform** A production-ready travel platform with destination management, inquiry workflows, an admin panel, user reviews, and media uploads. Engineered as a three-tier architecture â€” React frontend, Spring Boot REST API, and MySQL database. [![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammed-munshif/veylonejourney) `Java` `Spring Boot` `React` `MySQL` `REST API` 	### ðŸ›’ E-Grocery **E-Commerce Shopping Platform** A modern grocery delivery web application with product categorisation, cart management, secure checkout, and order tracking. Focused on clean UX and fast performance. [![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammed-munshif/E-grocery) `JavaScript` `E-Commerce` `Cart` `Payments` 
-### ðŸ—œï¸ Image Compressor **Browser-Based Compression Tool** A privacy-first image compression utility that processes files entirely client-side â€” no upload, no server, no tracking. Built for speed and simplicity. [![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammed-munshif/Imagecompressor) `JavaScript` `Canvas API` `Web Tool` 	### ðŸŽï¸ Hyper Racing *(Mobile)* **Flutter Racing Application** A high-performance mobile racing app built with Flutter and Appwrite, featuring real-time data, smooth animations, and a competitive leaderboard system. `Flutter` `Appwrite` `Dart` `Mobile` 
---- ## ðŸ“Š GitHub Activity 
-    
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Mohammed%20Munshif&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
- 
---- ## ðŸ Contribution Snake 
- 
---- ## ðŸ’¬ Dev Quote of the Day 
- 
---- ## ðŸŽ“ Education & Credentials |   | Qualification | Institution | |---|---|---| | ðŸŽ“ | Higher National Diploma â€” Software Engineering | National Institute of Business Management | | ðŸ… | Certificate in Computer Science | National Institute of Business Management | | ðŸŸ¦ | Google IT Support Certificate | Google Â· Coursera | | ðŸŸ¦ | Google CRM Administration Certificate | Google Â· Coursera | --- ## ðŸ“« Let's Connect Whether you're building something ambitious or looking for someone who bridges IT support and full-stack development â€” I'd love to hear from you. 
-    
+</div>
 
-Available for relocation Â· Open to remote Â· He/Him 
----  
+<div align="center">
+
+<a href="https://linkedin.com/in/mohammed-munshif-a29338261">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:mmunshif94@gmail.com">
+  <img src="https://img.shields.io/badge/mmunshif94@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=mohammed-munshif&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Opportunities-Worldwide-1f6feb?style=for-the-badge&logo=globe&logoColor=white" />
+
+</div>
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-munshif&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=58a6ff" width="340" />
+
+### About Me
+
+I'm an **IT Support Engineer** and **Full-Stack Web Developer** with hands-on experience delivering production-grade web systems and end-to-end IT infrastructure support.
+
+- 🎓 Higher National Diploma in **Software Engineering** — *National Institute of Business Management*
+- 💼 Certified in **IT Support · CRM Administration · Computer Science**
+- 🔭 Currently building full-stack platforms with **React + Spring Boot**
+- 🌐 Open to opportunities **anywhere in the world**
+- ⚡ Equally fluent in **hardware/network troubleshooting** and **modern web development**
+
+<br clear="right"/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammed-munshif&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Frontend**
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Backend & Data**
+<br/>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**IT & Infrastructure**
+<br/>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-00BCF2?style=flat-square&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 Veylone Journeys
+**Full-Stack Tourism Platform**
+
+A production-ready travel platform with destination management, inquiry workflows, an admin panel, user reviews, and media uploads. Engineered as a three-tier architecture — React frontend, Spring Boot REST API, and MySQL database.
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammed-munshif/veylonejourney)
+
+`Java` `Spring Boot` `React` `MySQL` `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-Grocery
+**E-Commerce Shopping Platform**
+
+A modern grocery delivery web application with product categorisation, cart management, secure checkout, and order tracking. Focused on clean UX and fast performance.
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammed-munshif/E-grocery)
+
+`JavaScript` `E-Commerce` `Cart` `Payments`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗜️ Image Compressor
+**Browser-Based Compression Tool**
+
+A privacy-first image compression utility that processes files entirely client-side — no upload, no server, no tracking. Built for speed and simplicity.
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammed-munshif/Imagecompressor)
+
+`JavaScript` `Canvas API` `Web Tool`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏎️ Hyper Racing *(Mobile)*
+**Flutter Racing Application**
+
+A high-performance mobile racing app built with Flutter and Appwrite, featuring real-time data, smooth animations, and a competitive leaderboard system.
+
+`Flutter` `Appwrite` `Dart` `Mobile`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohammed-munshif&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff" height="165" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-munshif&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-munshif&theme=github-compact&hide_border=true&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammed-munshif/mohammed-munshif/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammed-munshif/mohammed-munshif/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohammed-munshif/mohammed-munshif/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" />
+
+</div>
+
+---
+
+## 🎓 Education & Credentials
+
+| &nbsp; | Qualification | Institution |
+|---|---|---|
+| 🎓 | Higher National Diploma — Software Engineering | National Institute of Business Management |
+| 🏅 | Certificate in Computer Science | National Institute of Business Management |
+| 🟦 | Google IT Support Certificate | Google · Coursera |
+| 🟦 | Google CRM Administration Certificate | Google · Coursera |
+
+---
+
+## 📫 Let's Connect
+
+Whether you're building something ambitious or looking for someone who bridges IT support and full-stack development — I'd love to hear from you.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mohammed-munshif-a29338261">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:mmunshif94@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Available for relocation · Open to remote · He/Him</sub>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" />
