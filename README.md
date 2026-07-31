@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Mohammed+Munshif;IT+Support+Engineer+%26+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Mohammed+Munshif;Full-Stack+Developer+%7C+UI%2FUX+Designer;IT+Support+Engineer" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=%3E+Diagnosing+systems...+%5BOK%5D;%3E+Deploying+full-stack+apps...+%5BOK%5D;%3E+Available+for+opportunities+worldwide...+%5BOK%5D" alt="Terminal Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=%3E+Diagnosing+systems...+%5BOK%5D;%3E+Deploying+full-stack+apps...+%5BOK%5D;%3E+Designing+pixel-perfect+UI...+%5BOK%5D;%3E+Available+for+opportunities+worldwide...+%5BOK%5D" alt="Terminal Typing" />
 
 <br/><br/>
 
@@ -22,11 +22,75 @@
 
 ---
 
+### `$ render --avatar --mode=ascii`
+
+<div align="center">
+
+```
+                    :+#%%%%%%%%%@@@@%*=-:.                          ...:+*%@@%%@@%%%%%*-.
+                 .=#%@@%%%%@@@%%@%*=:.                           .    .. .:+%@%@@%%%%@@@%+:
+               -*%@@%%@%%%%@@@@@#-:.                              .     .. .-#@@%%%%@%%%@@@#=.
+            .=#@@@%%%%%%%%%%%%#+.                                            :+%@%@%%%%%%%%@@%*:
+          .+%@@%%%%%%%%%%%%%%+.                                                :*%@@@@%%%%%@@@@@#-
+        .+%@@%%%%%%%%%%@@@@@#:                                                  -#@%%@%%%@@%%%%@@@#-
+       =%@@%%%%%%%%%%%%@@@@%-                               ...                 -%@%%%%%%@@@@%%%%%@@
+     -#@@%%%%%%%%%%%%%%%%%@*                     ......::--------::...          .=#%%%%%%%@%%%%%%%%@
+    +%@%%%%%%%%@@%%%%%@@%%%=.              ..::--=====+++++++++++====--::.        :#@%%%%%%%%%%%%%%%
+  :#@@%%%%%%%%%@@%%%%%%%%%%*.         ..::--==++++++******++++++++++=====-:.      .*@%%%%%%%%%%%%%%%
+ -%@%%%%%%@%%%%%%%%%%%%%%%%#:       .:---====++++**************++++++======-.     .#@%%%%%%%%%%%%%%%
++%@%%%%%%%@@@%%%%%%%%%%%%%%%=      .---======+++*****************+++++=====-:.    =%@%%%%%%%%%%%%%%%
+@%%%%%%%%%%%%%%%%%%%%%%%%%%@%:    .:-========++++****************++++++=====-:.  .#@%%%%%%%%%%%%%%%%
+%%%@@%%@@@%%%%%@@%%%%%%%%%@%@+   ..:-========++++***************++++++++====-:.. =@%%%%%%%%%%%@@%%%@
+%%%%%%@%%%@@@@@%%%%%%%%%%%%%@%: ..:-========++++*****************+++++++=====-:..#@%%%%%%%%@%%%%%%%@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@+..:-====------====++*********++====-------=====:.-%%%@%%@%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%@@@%%%%%%%@@@#:.:==--:...........:-++****++-:......::::::-===:.+@%%%@@@%%%%%%%%%%%%
+@@@%%%%%%%%%%%%%%%@%%%%%%%@@@@%=.:=---::--------::::-=++++==-::::----====--===:-%@@@%%@%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%@@%%%%%%%#::=------:::::::--:::-++++=-----:.:-:::-======-*%%%%@%%%%%%%%%%%%%%%
+@@%%%@@%%%%%%%%%@%%%%%%%%%%%+-=+-:=-===--:::----==---=++++======---=-:--==+==--++=-+@%%%%@@%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%+-----=====++=============+++++++++=====++++++++======-+@%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%@@*===--====+++++++++++=====+++++++++++++++**++++====++=+#@%%%%%%%%%%%%%%%
+@@%%%%%%%%%%%%%%%%%%%%%%%%@@#===--====+++*****++++===+++++++++++++******+++====++=+#@%%%%@@%%%%%%%%%
+%%%%%%%%%%@@%%%%%%%%%%%%%%%%%+=+=--===++++****+++===++**+++++++*********+++==-==+=*%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%@%%%%%@#==----===++++**+++==---=+++==-==+*******++++==---==+%@%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*==:---==+++++++++=------===--=++******++++===--==+%@%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@#=-::---==++++++++=-:...:-....:-=++*+++++++==-::==*@%%@%%%%%%%%%%%%%%%
+%%%%%%%%%%@@@@@%%@%@%%%%%%%@@@%++=:---=======-:.....:::--:::::..:=++++++===-:=**#%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%@@@@@%%@@@@%%%%%%%%%@%%%-::--=====: ...:::---------:::..-+++===--.-%@@@%%@%%%%%%%%%%%@@@%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@*:::---===:.--::-========----=-.-====--::.+@%%%%@@@@%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%=..::----::==----======-===++-.-===-::. :%@%%%%%%%%@@%%%%%%%%%%%%
+%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%@@@%: ..::--:-====--:...::-=+++=-::---:.  .#@%%%%%%%%%@%@%%%%%%%%%%%
+%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%@%@%-   ....:-=====:.::-=++++==:.....   :#@%%%%%%%%%%%%@%%%%%%%%%%%
+%%%%%%%%%@%%%%%%%%%%%%%%%@@%%%%%%%%%@%+      .:---==-========--:..      -%@%%%%%%%%%@@@@%%%%%%%%%%%%
+%%%@%%%%%@@%%%%@@%%%%%%%%%%%%%%%%%%@%@%:.       ..::::::::::....     .::=@@%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%@%-::..                       .:---=*%@%%%%%%%%@@%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@*-::::...                ..:-------+=#@%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@*=-----::::...      ...::----=====-=#=.*@@%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%%@@@@*:#*-------::::::::---------========#%*  =#@@%%%@%%%%%%%%%%%%%%
+@@%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@%#+..#%*=-===--------=================*%%+   .+#%@@@@@%%@%@@%%%@@%%
+@@%%%@@@@@@@%%%%%%%%@@@@@@@@%#*=:..   *#%#=-====----=-================*%%#-     ..-=*#%@@@@@%@@@@@%%
+*@@%%%%%%%%%%%%%%%%%@@@@%#+-:.        +##%#+===================++==+*#%%%*.           .-+#%@@@@@%%%%
+ +%@%%%%%%%%%%%@@@@@%#*=:             -##%%%%#*++=======+++++++++*#%%%%%%*.               :-+*%%@@@@
+  -%@%%%%%%%@@@@%%*=:.                .*#%%%%%%%%#*++++++++==+*#%%%%%%%%%*.                   .:-+*#
+   :*@@@@@@@%#+=:.                    .+##%%%%%%%%%%%#++===+#%%%%%%%%%%%#+
+    .=++++=-:.                         :##%%%%%%%%#**+++++*#%%%%%%%%%%%%#=
+                                        =%%%%%%#+:.      ....::=*#%%%%%%#:
+                                        .#%%%*-                   :*%%%#+
+         -=-    :..    - .               +%*--:                  -+++*##-
+       -+*+*.  :*    ..*.-.+=            :+=*#*=.              .+#%%###*.
+```
+
+<sub>*rendered from source image · `resolution: 100x50 chars` · `charset: " .:-=+*#%@"`*</sub>
+
+</div>
+
+---
+
 ```yaml
 # Mohammed Munshif — System Profile
 name        : Mohammed Munshif
-role        : IT Support Engineer | Full-Stack Web Developer
+role        : Full-Stack Developer | UI/UX Designer | IT Support Engineer
 location    : Sri Lanka 🇱🇰
+current     : Ministry of Brands
 status      : Open to opportunities worldwide
 stack       : React · Spring Boot · Java · MySQL · Flutter
 education   : HND Software Engineering — NIBM
@@ -39,12 +103,14 @@ contact     : mmunshif94@gmail.com
 
 ### `$ whoami`
 
-IT Support Engineer and Full-Stack Web Developer with production experience in both infrastructure support and modern web systems.
+Full-Stack Developer, UI/UX Designer, and IT Support Engineer with production experience across infrastructure support and modern web systems. Currently working with **Ministry of Brands**, designing and building digital products end to end — from interface to server.
 
+- 🏢 Currently at **Ministry of Brands**
 - 🎓 HND in **Software Engineering** — *National Institute of Business Management*
 - 🟦 **Google IT Support** Certificate — *Coursera*
 - 🟦 **Google CRM Administration** Certificate — *Coursera*
 - 🏅 Certificate in **Computer Science** — *NIBM*
+- 🎨 Designing interfaces as much as I build the systems behind them
 - ⚡ Building scalable systems with **React + Spring Boot**
 - 🌐 Available for relocation · Remote · He/Him
 
@@ -52,7 +118,30 @@ IT Support Engineer and Full-Stack Web Developer with production experience in b
 
 ---
 
+### `$ cat fun-facts.json`
+
+```json
+{
+  "debugging_ritual": "☕ coffee before the console",
+  "favorite_error": "it works on my machine",
+  "current_obsession": "shaving milliseconds off load times",
+  "design_philosophy": "if it isn't intuitive, it isn't done",
+  "keyboard_of_choice": "mechanical, always",
+  "one_thing_ill_never_admit": "I still Google basic Git commands"
+}
+```
+
+<sub>*edit these — swap in facts that are actually true for you.*</sub>
+
+---
+
 ### `$ cat tech-stack.json`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,flutter,spring,java,mysql,figma,windows,linux,git&theme=dark" />
+
+</div>
 
 <table>
 <tr>
@@ -60,31 +149,31 @@ IT Support Engineer and Full-Stack Web Developer with production experience in b
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
 **Backend & Data**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
-**IT & Infrastructure**
+**Design & IT**
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-00BCF2?style=flat-square&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </td>
 </tr>
@@ -200,6 +289,6 @@ $ open   https://linkedin.com/in/mohammed-munshif-a29338261
 </a>
 
 <br/><br/>
-<sub><code>Available for relocation · Open to remote · He/Him</code></sub>
+<sub><code>Ministry of Brands · Available for relocation · Open to remote · He/Him</code></sub>
 
 </div>
