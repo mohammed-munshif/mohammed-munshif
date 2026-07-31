@@ -16,77 +16,80 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
+<a href="https://github.com/ministryofbrands">
+  <img src="https://img.shields.io/badge/Ministry_of_Brands-Full--Stack_Developer-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=mohammed-munshif&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<a href="https://github.com/ministryofbrands">
+  <img src="https://github.com/ministryofbrands.png" width="72" height="72" style="border-radius:50%;" />
+</a>
+
+<sub>🏢 Currently building at **[Ministry of Brands](https://github.com/ministryofbrands)**</sub>
 
 </div>
 
 ---
 
-### `$ render --avatar --mode=ascii`
+### `$ render --avatar --mode=braille --dither=floyd-steinberg`
 
 <div align="center">
 
 ```
-                                                  ....-==--===--==:...
-                                          .::==*##%%%%@@@@@@@@@@@@%%%%#*#+==::
-                                       .=*#%@@@@@@@%%%%%%%%%%%%%%%%%%%%%%@@@%@%#*=-.
-                                      :#%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@#+-:
-                                   .=#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%@%%%%%%@@@%%*=.
-                                   +%@%%@%%%%@@@%@@%%%%%%%%%%%%%%%@%%%%%%%@@%%@%%@%%%%%%@@@%#=:
-                                  -#%%%%%%%%%%%@@%%%%%%%%%%%%%%%%%%%%%%@%%%%@%@@@%@%%@@%%%%%@@@*-
-                                 :%%%%%%@%@%%@@@@@%%%%%%%%%%%%%%%%%%%%%%%##%%%%%%@@@@@%%%@@%%%%@*.
-                                 *%%%%%%%@@@@@@%%%%%%%%%%%%%%%%%###***++++++****##%%%%%@@@@@%%%%#+:
-                                :#%%%%@%%%%%%%%%%%%%%###**+++++=======--=======+++++**#%%%@@@@@%%%%-
-                                 +%%%%%@@@@@@%%%###**++====------------------=======++++*#%%%%%%%%%*
-                                 =%%%%@@%%%%##**+++++===-----------------------========+++*#%%%%%%%*
-                                 .%%%%%%%%%*+++++++=====--------:-:::-:---------========+++*#%%%%%%-
-                                  +@%%%%%%#+++++++======-----:-:::::::::---------=======+++*#%%%%%#
-                                  .#@%%%%%#++++++=======------:::::::::::--------========++*##%%%%-
-                                   -%%%%%##*+++++=======------------::::---------=========++*##%%#
-                                    #%%##*++++++++=====-------------:------------=========+++*##%-
-                                    =%##*+++++++++++++====---::::::::::::----====++++++==+++++###.
-                                    .###*+++++*#%%%%%%%%####*+=---:::---+*###%%%%%######*+++++*#+
-                                     +##*++++*##********#####*+===----=+**####**+++++++**+++++*#.
-                                     .##*+++**++++****++++******+=---=+************++++=++++++#=
-                                  .:: =#+++++++***###*###*=+****+=--==+++**=+#%#*+###*++===++*+..:::
-                                 .**+++#+++++=+++****+++++=+++++=----====++=++++++++++======+*+===+#:
-                                  =*+++*++++=========+===++++++==----===============---=====++====++:
-                                  =++=+*+++====----------====+====--====-----------------===+++=-==-.
-                                  -++=+*+++====-----------===++==---=====----------------===+++====-
-                                  .====+++++====----------=====------==-=---------::----===+++==-==.
-                                   :+=+*+++++===----------===++==----==+==--------:----===+++++===:
-                                    =++***++++===--------=+*****+++==++**+=-----------====++**===-
-                                    .=++**++++========--===+++***+++***++=------------===++**+===
-                                    .+++#**++++========-=+*#%%%%%#*%%%%%%#*+=--------====++*#+=+-
-                                     :--+#***+++=====+**#%%%%##****+******##%#+=========++*#+:::.
-                                        .*****++++=++#%%%%#*****************#%%*======+++*##:
-                                         =##***++++++##*+*#**++++=++==++***++*#*====++***##+
-                                          +%###**++++#*+++***++=======+++====+#*==+++*###%#:
-                                          .#%###***+*#*++++++*********+======+#*++++*##%%%=
-                                           .#%%%###*##*++++=++#%%%##*+=-====+*##***##%%@%=
-                                             +%%%%%%%###+++===+***++=--====++###%%%%%%@*:
-                                              =%%%%%%%%##***++*+++++++++***###%%%%%%%%#:
-                                              :##%%%%%%%%%###############%%%%%%%%%%#***:
-                                              .*####%%%%%%%%%%%%%%%%%%%%%%%%%%%%##*+++*=:
-                                              -*****###%%%%%%%%%%%%%@%%%%%%%%##**+++++*+=+.
-                                             =+*******#####%%%%%%%%%%%%%##***+++++++++*= +#:
-                                            =*.+*++++*****########*******++++++++=++++=. :%%=
-                                           -@+ .=*++++++********+++++++++++++++=====+=...-%%@#-
-                                       :-=*%@+...-++++++++++++++++++=++++++++======++:.. +%%%%@#=-.
-                                  .-+*%%@@@%@*:.. :+++==+++++++++++++++++========++=:  .:#%%%%%%@@%#*+-:.
-                              :=*#%@@@@%%%%%%%::.. .-=+++++++++++++++===========-:.     -%%%%%%%%%%%@@@#:
-                          :=+#%@@%%%%%%%%%%%%%=....   ..:-=+++===============-:.        -%%%%%%%%%%@@*:
-                      :=*#%@@%%%%%%%%%%%%%%%%%*...        ..--============-:.          .=%%%%%%%@@#+:
-                      .+#@@%%%%%%%%%%%%%%%%%%%#:..            .:-==+=+++-.             .+%%%%@@%*-
-                         :+#%%%%%%%%%%%%%%%%%%%+...             .::---:               .:*%%@%*=.
-                            :+#%@@@%%%%%%%%%%%%%-..       .-=*##%##**+====-:.         .:#%*-.
-                               .-+#%@@@@%%%%%%%%#. .   .-*%%@%%%%%%%%@@@@%%%%*=:     ...:
-                                   .:=*#%%@@@@%%%-   .=#@@%%%%%%%%%%%%%%%%%%@@@%+.
-                                        .:-++##%%* :=**+#%@@@@@%%%%%@@%%%##*+=:.
-                                               ... :-...:=********=--=:..
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⣄⣀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣔⣾⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣾⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣞⣽⣿⣿⣿⣿⣿⣿⣯⣿⣿⣿⣟⣷⣿⣯⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⢿⣿⣻⣯⣷⣿⣷⣿⣽⣿⣿⣻⣽⣿⣿⣷⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡿⣿⣾⣿⣿⣿⣿⣿⣿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣺⣿⣿⣿⣿⣿⣿⣿⣯⣿⣟⣯⣿⣯⣷⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⣿⣿⣿⣿⣿⣿⣿⣷⣿⢿⡿⣿⢿⢽⢝⢞⣗⢿⣻⣿⣿⣿⣟⣯⡂⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⢿⣿⣿⣿⣿⣿⣽⡾⡯⢏⢏⢳⢙⢜⠸⡨⡒⡝⡎⡯⡿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⣿⣿⣿⣿⡿⡽⣳⢹⠸⡘⢌⠢⡑⠔⢅⠕⠜⡌⢎⢎⠽⡽⣿⣿⣻⠄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣿⣿⣿⡿⣹⢹⢸⢸⠨⡊⡢⢑⠌⡊⡢⢑⠱⡘⡜⡌⡇⡯⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣝⢜⢎⢎⢎⠪⡐⠌⠔⡨⢐⢐⠡⡑⢌⠆⡇⢇⢇⡿⣟⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⡪⡎⡎⡎⡎⣊⠢⡡⢑⠄⢅⠢⢑⠌⡢⢣⠱⡱⡱⡽⣿⡗⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⣿⣗⢯⢪⡪⡪⡪⢢⠑⠌⢔⠨⢂⠌⡢⢑⠌⡆⢇⢣⢣⢯⢿⡃⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⣿⢽⡱⡕⣕⢕⠕⡅⢕⠡⡑⠌⡂⠕⡈⡢⢱⠸⡸⡸⡸⡸⣻⡁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣟⡧⡣⣇⣧⣗⣧⡧⣦⣑⢄⢑⢈⢢⢵⢼⣜⣞⣮⡎⡎⣎⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣺⢵⢱⢵⢟⣝⠷⡿⣻⢮⢢⠢⡑⣜⢽⢟⢯⢫⡓⢯⡣⡣⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣇⢗⣝⢕⡮⣞⣜⢵⡻⣪⠪⡘⡼⣹⣹⣱⡣⣇⢇⢗⠭⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢦⢈⡧⡳⡸⣕⢿⡹⢾⢑⢯⡪⠪⡘⡎⣎⡺⡳⡹⣗⢕⢕⢝⡄⡔⡄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⢫⡺⡜⡜⢜⢕⢝⢜⢕⢕⢕⠕⡑⡕⢕⢜⢜⢕⠕⡕⡱⡱⡱⡱⠅⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢕⢇⡗⡕⡕⢅⠕⡑⢕⢱⢱⢱⠡⡱⡸⠨⡪⢨⢂⠣⠪⡸⡸⡘⡜⡁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⢣⢣⢇⢇⢇⠕⡨⠨⡊⡢⡣⡣⡑⢕⢸⠨⡨⢂⠪⠨⠪⡸⡸⡡⢣⠂⠀⠀⠀⠀⠀⠈⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡸⣸⢱⢡⠱⠨⡨⢂⢕⠕⡅⠪⡘⢔⠕⡨⢂⠅⢕⠱⡸⡸⡸⡨⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡮⡺⡜⡜⠬⡑⢌⠢⡱⡵⣕⢅⡣⡧⡱⢐⠡⢊⠔⡑⡕⣝⢜⠔⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⢇⣟⢜⢎⢕⢅⢕⢡⢳⢱⢕⢇⢇⡏⣊⠢⡡⡑⢌⠎⣎⢞⢜⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢕⢵⡫⡎⡎⡢⣑⢢⣣⣿⢿⣺⣟⣷⣕⡅⡢⡊⡢⢣⢣⢟⢜⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠑⢹⢎⢧⢣⢣⢣⣷⣟⣟⢝⡕⡭⣓⢯⣷⡊⡆⡣⡣⣳⡋⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠨⡯⣳⢱⢱⢽⢗⣗⢗⢟⢮⢫⢗⢷⢽⡇⡕⡕⣕⢷⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡵⣳⢱⢽⢕⢽⡪⡪⡸⡨⡎⡇⢧⢗⢕⢵⢽⡽⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⢹⣽⢮⣣⡻⡜⣕⢕⡧⣧⣳⢱⢑⢕⡯⣪⡺⣷⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠈⣿⣟⣮⡾⣱⢱⢹⢽⣻⠪⠪⡸⡸⣯⣺⢾⣿⠅⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣷⣿⡣⡇⡇⡏⡎⡇⡇⡵⣹⣽⣾⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠈⣿⡿⣯⣿⡽⣮⣳⣕⡷⣹⣽⣯⣿⣯⡷⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⣻⣿⣿⣻⣷⣷⣷⣿⡿⣷⣿⣟⣗⢵⢅⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⢠⡳⡳⡯⣿⣿⣿⣷⣿⣿⣿⡿⣟⢮⢪⡺⡜⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠂⠀⠀⠀⠀⠀⠀⡜⢮⡫⡯⣞⢾⣻⣟⣿⣻⡳⡻⣪⢪⢣⢣⡃⢽⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⠠⡇⢱⢕⢝⢮⡻⣺⢺⢜⢜⢎⢧⢣⢣⢣⢳⠀⢺⣧⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣼⡇⠈⣎⢇⢗⢝⡎⣇⢇⢗⢕⢕⢕⢕⢕⠕⠀⢽⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⣠⣾⡿⣿⡇⡐⢸⢸⢸⢱⢕⢵⢱⢕⢕⢕⢕⠕⡕⠅⠀⣿⣿⣷⣿⣶⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣡⣾⣿⣿⣿⣿⡧⠠⠀⠱⡱⡱⡱⡱⡱⡱⡱⡑⡅⡇⠁⠀⠐⣿⣷⣿⢿⣿⡞⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⡿⣟⣿⣿⡯⡀⠂⠀⠀⠣⡣⢣⢑⠕⡌⢎⠌⠀⠀⠀⠂⣿⣷⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣟⣯⣷⣿⣿⣿⣿⣯⠠⠀⠀⡀⠀⠈⠪⡸⡸⡘⠁⠀⠀⠀⠐⢈⣿⣯⣷⠏⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡿⣿⢿⣿⣿⣿⣽⠔⠀⢀⠀⠀⠀⡀⡑⠜⠀⠄⠀⠀⠄⠂⢐⣿⡽⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⢿⣿⣾⣷⣿⡿⣇⠈⠀⠀⣠⣷⣿⣾⣾⣴⣤⡀⢀⠀⠠⢰⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣽⣿⣗⠀⠄⣼⣿⣽⣯⣿⣽⣟⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠯⣿⣷⠀⡼⣻⣿⣽⣿⣽⣿⣽⣿⠽⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠘⠈⠌⠿⠿⠯⠗⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-<sub>*rendered from source image · `resolution: 120x57 chars` · `charset: " .:-=+*#%@"` · masked to circle, tone-inverted for dark themes*</sub>
+**Mohammed Munshif — Full Stack Developer**
+
+<sub>*rendered as Unicode Braille (8px per glyph) with Floyd–Steinberg dithering · masked to circle*</sub>
 
 </div>
 
@@ -97,7 +100,7 @@
 name        : Mohammed Munshif
 role        : Full-Stack Developer | UI/UX Designer | IT Support Engineer
 location    : Sri Lanka 🇱🇰
-current     : Ministry of Brands
+current     : Ministry of Brands (github.com/ministryofbrands)
 status      : Open to opportunities worldwide
 stack       : React · Spring Boot · Java · MySQL · Flutter
 education   : HND Software Engineering — NIBM
@@ -112,7 +115,7 @@ contact     : mmunshif94@gmail.com
 
 Full-Stack Developer, UI/UX Designer, and IT Support Engineer with production experience across infrastructure support and modern web systems. Currently working with **Ministry of Brands**, designing and building digital products end to end — from interface to server.
 
-- 🏢 Currently at **Ministry of Brands**
+- 🏢 Currently at **[Ministry of Brands](https://github.com/ministryofbrands)**
 - 🎓 HND in **Software Engineering** — *National Institute of Business Management*
 - 🟦 **Google IT Support** Certificate — *Coursera*
 - 🟦 **Google CRM Administration** Certificate — *Coursera*
@@ -204,12 +207,52 @@ Three-tier full-stack travel system. React frontend, Spring Boot REST API, MySQL
 </td>
 <td width="50%" valign="top">
 
+**NexaHR** — HR Management System
+
+Full-stack HR platform built entirely in Next.js (frontend + backend), Supabase/Postgres. Multi-tenant with a 4-tier role hierarchy, approval chains, org charts, payroll, and cross-role analytics.
+
+`Next.js` `TypeScript` `Supabase` `Postgres`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Aura Wear** — Fashion E-Commerce
+
+Fashion e-commerce platform on Spring Boot microservices, React frontend. Luxury dark/gold UI, LKR pricing, full catalog, cart, and checkout flows.
+
+`React` `Spring Boot` `Microservices` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
 **E-Grocery** — E-Commerce Platform
 
-Full-featured grocery delivery web app with product categorisation, cart management, secure checkout, and order tracking.
+Full-featured grocery delivery platform with product categorisation, cart management, secure checkout, and order tracking, backed by a Java/Spring Boot API.
 
 [![View](https://img.shields.io/badge/View_Repository-21262D?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammed-munshif/E-grocery)
-`JavaScript` `E-Commerce` `Payments`
+`Java` `Spring Boot` `MySQL` `E-Commerce`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Flood Warning System** — IoT + Mobile
+
+IoT-based flood monitoring and early-warning app. Live sensor data feeds a Flutter mobile client to alert users ahead of rising water levels.
+
+`Flutter` `IoT` `Dart` `Real-time Alerts`
+
+</td>
+<td width="50%" valign="top">
+
+**Hyper Racing** — Mobile App
+
+High-performance racing app built with Flutter and Appwrite. Real-time data, leaderboard system, and smooth animations.
+
+`Flutter` `Appwrite` `Dart`
 
 </td>
 </tr>
@@ -226,15 +269,17 @@ Client-side image compression utility. No upload, no server, no tracking. Pure b
 </td>
 <td width="50%" valign="top">
 
-**Hyper Racing** — Mobile App
+**Mobile Compressor** — Mobile Utility
 
-High-performance racing app built with Flutter and Appwrite. Real-time data, leaderboard system, and smooth animations.
+Companion mobile app for on-device image compression — same no-upload, no-tracking philosophy as the browser tool, built for on-the-go use.
 
-`Flutter` `Appwrite` `Dart`
+`Flutter` `Dart` `Mobile Utility`
 
 </td>
 </tr>
 </table>
+
+<sub>*repo links not on file for NexaHR, Aura Wear, Flood Warning System, and Mobile Compressor — drop the URLs in and I'll wire up the buttons.*</sub>
 
 ---
 
@@ -296,6 +341,6 @@ $ open   https://linkedin.com/in/mohammed-munshif-a29338261
 </a>
 
 <br/><br/>
-<sub><code>Ministry of Brands · Available for relocation · Open to remote · He/Him</code></sub>
+<sub><code><a href="https://github.com/ministryofbrands">Ministry of Brands</a> · Available for relocation · Open to remote · He/Him</code></sub>
 
 </div>
